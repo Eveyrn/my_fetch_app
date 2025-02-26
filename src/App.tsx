@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -17,6 +18,8 @@
 // export default App;
 
 
+=======
+>>>>>>> ff32d3c0819626b763703b1876e8ef25da6b1e5e
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import UsersList from "./components/UsersList";
 import UserPosts from "./components/UserPosts";
